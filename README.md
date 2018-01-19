@@ -14,12 +14,6 @@ git clone https://github.com/krsunny/chat.git
 npm install
 ```
 
-**Start the token server in one terminal instance:**
-
-```
-node server.js
-```
-
 **Start the React application build process in another terminal instance:**
 
 ```
