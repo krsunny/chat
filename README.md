@@ -8,7 +8,7 @@
 **Clone the repository:**
 
 ```
-git clone https://github.com/kevinthompson/react-chat-interface.git
+git clone https://github.com/krsunny/chat.git
 ```
 
 **Install application dependencies:**
