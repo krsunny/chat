@@ -6,6 +6,7 @@
 .MessageForm .input-container {
   flex: 1;
   margin: 1px;
+    padding: 4px 19px;
 }
 
 .MessageForm .button-container {

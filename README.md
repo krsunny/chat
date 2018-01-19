@@ -1,9 +1,7 @@
 # React Chat Interface
 
-![](https://raw.githubusercontent.com/kevinthompson/react-chat-interface/master/example.jpg)
+![]
 
-This demo application was created as a supplement to a post on 
-the [Twilio blog](https://www.twilio.com/blog).
 
 ## Setting Up The Application
 
@@ -30,3 +28,4 @@ node server.js
 ```
 npm start
 ```
+"# chat" 

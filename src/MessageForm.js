@@ -24,7 +24,7 @@ class MessageForm extends Component {
           <input
             type="text"
             ref={(node) => (this.input = node)}
-            placeholder="Enter your message..."
+            placeholder="Type a message..."
           />
         </div>
         <div className="button-container">

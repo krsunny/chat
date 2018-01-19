@@ -1,23 +1,29 @@
 .App {
   border: 1px solid #ccc;
   border-radius: 3px;
-  height: 400px;
-  width: 600px;
-  margin: .5em;
-  font-size: 13px;
+  height: ;
+  width: 99%;
+  margin: ;
+  font-size: ;
   display: flex;
   flex-direction: column;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    
 }
 
 .App .MessageList {
   box-sizing: border-box;
   flex: 1;
+    background: url(background.png);
 }
 
 .App .MessageForm {
-  background: #eee;
-  border-top: 1px solid #ccc;
+  background: #f5f1ee;
+  border-top: 1px solid rgba(0,0,0,0.08);
   border-radius: 0 0 3px 3px;
   box-sizing: border-box;
-  flex: 0 0 30px;
+  flex: 0 0 50px;
 }
